@@ -176,6 +176,7 @@ function App() {
       <DigitButton digit="8" dispatch={dispatch} />
       <DigitButton digit="9" dispatch={dispatch} />
       <DigitButton digit="." dispatch={dispatch} />
+      <button></button>
 
       <DigitButton digit="0" dispatch={dispatch} />
 
